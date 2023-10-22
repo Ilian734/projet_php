@@ -1,0 +1,14 @@
+{
+    "name": "ilian/projet-php",
+    "description": "Projet PHP",
+    "type": "project",
+    "require": {
+        "php": "7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Ilian",
+            "email": "ilian.kherbouce@efrei.net"
+        }
+    ]
+}
